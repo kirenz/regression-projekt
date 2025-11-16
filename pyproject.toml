@@ -1,0 +1,13 @@
+[project]
+name = "regression-projekt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "altair>=6.0.0",
+    "ipython>=9.7.0",
+    "jupyter>=1.1.1",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+]
